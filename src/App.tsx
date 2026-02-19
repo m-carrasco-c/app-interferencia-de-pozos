@@ -351,7 +351,7 @@ const App = () => {
                 <Droplets className="text-white" size={24} />
             </div>
             <div>
-                <h1 className="text-xl font-bold tracking-tight text-slate-900">Gestor de Pozos</h1>
+                <h1 className="text-xl font-bold tracking-tight text-slate-900">Calculo de Interferencia de Pozos</h1>
                 <p className="text-xs text-slate-500 font-medium">Análisis Hidrogeológico & Modelado</p>
             </div>
         </div>
