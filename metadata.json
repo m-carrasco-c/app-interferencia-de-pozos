@@ -1,0 +1,5 @@
+{
+  "name": "Interferencia de Pozos",
+  "description": "El Gestor de Influencia de Pozos Hidrogeológicos es una aplicación web interactiva y autónoma diseñada para analizar, simular y visualizar el comportamiento del agua subterránea ante la extracción mediante pozos.",
+  "requestFramePermissions": []
+}
