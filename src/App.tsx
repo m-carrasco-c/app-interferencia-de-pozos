@@ -360,7 +360,7 @@ const App = () => {
                 <FileText size={18} />
                 <span>Generar Reporte</span>
             </button>
-            <div className="text-xs text-slate-400 hidden md:block border-l border-slate-200 pl-4">v4.3.1 by MCC 2026</div>
+            <div className="text-xs text-slate-400 hidden md:block border-l border-slate-200 pl-4">v4.3.1-mcc-2026</div>
         </div>
       </header>
 
