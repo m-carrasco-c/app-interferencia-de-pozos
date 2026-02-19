@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Calculator, Map, Activity, Droplets, Info, Clipboard, Grid, Waves, FileText, Sliders, RefreshCw, TrendingUp } from 'lucide-react';
 import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
+import { Analytics } from '@vercel/analytics/react';
 import { 
   calcHydraulics, 
   getDrawdownInterference, 
@@ -698,6 +699,7 @@ const App = () => {
           </div>
         )}
       </main>
+      <Analytics />
     </div>
   );
 };
